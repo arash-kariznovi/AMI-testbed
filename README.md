@@ -11,3 +11,5 @@ We are not working on cloud part by considering the security and privacy of the 
     > hommomorphic encryption
     > trusted execution environments
     
+
+# The code is confidential and these images are here just for demonestration purposes.
